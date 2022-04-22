@@ -1,0 +1,10 @@
+^D:\PROJECT_CODE\SINFUN\WINDOWS\CMAKELISTS.TXT
+setlocal
+"D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional2\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/project_code/sinfun/windows -BD:/project_code/sinfun/build/windows --check-stamp-file D:/project_code/sinfun/build/windows/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

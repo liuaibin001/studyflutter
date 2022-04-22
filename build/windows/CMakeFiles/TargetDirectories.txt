@@ -1,0 +1,10 @@
+D:/project_code/sinfun/build/windows/CMakeFiles/INSTALL.dir
+D:/project_code/sinfun/build/windows/CMakeFiles/ALL_BUILD.dir
+D:/project_code/sinfun/build/windows/CMakeFiles/ZERO_CHECK.dir
+D:/project_code/sinfun/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+D:/project_code/sinfun/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+D:/project_code/sinfun/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+D:/project_code/sinfun/build/windows/flutter/CMakeFiles/INSTALL.dir
+D:/project_code/sinfun/build/windows/runner/CMakeFiles/sinfun.dir
+D:/project_code/sinfun/build/windows/runner/CMakeFiles/INSTALL.dir
+D:/project_code/sinfun/build/windows/runner/CMakeFiles/ALL_BUILD.dir

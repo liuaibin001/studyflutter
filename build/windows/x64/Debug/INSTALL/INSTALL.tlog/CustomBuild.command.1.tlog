@@ -1,0 +1,10 @@
+^D:\PROJECT_CODE\SINFUN\BUILD\WINDOWS\CMAKEFILES\0B254E6DA7E419F6A7331542B44BA15E\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
